@@ -6,7 +6,7 @@ window.PROJECTS = [
     "name": "00Chess",
     "image": "images/00chess.png",
     "url": "https://play00chess.com/",
-    "summary": "Un jeu de plateau stratégique qui mélange le 007, les échecs et le tower defense façon Bloons TD 5. Le but est de tuer le roi adverse, en choisissant parmi diverses stratégies pour y arriver.\n\n."
+    "summary": "Un jeu de plateau stratégique qui mélange le 007, les échecs et le tower defense façon Bloons TD 5. Le but est de tuer le roi adverse, en choisissant parmi diverses stratégies pour y arriver.\n\n Python , React + TypeScript, Django + PostgreSQL."
   },
   {
     "name": "WikipediaPeopleMap",
